@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "titre": "Seven",
+      "note": "9",
+      "duree": "130",
+      "sortie": "1995",
+      "age": "+14 ans",
+      "categorie": "Thriller",
+      "content": "Pour conclure sa carrière, l'inspecteur Somerset, vieux flic blasé, tombe à sept jours de la retraite sur un criminel peu ordinaire. John Doe, c'est ainsi que se fait appeler l'assassin, a décidé de nettoyer la société des maux qui la rongent en commettant sept meurtres basés sur les sept péchés capitaux : la gourmandise, l'avarice, la paresse, l'orgueil, la luxure, l'envie et la colère.",
+      "image": "https://image.tmdb.org/t/p/original/moHx8JGzIdEAMLj1CqDzcLYhMRY.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/hWrxRwnnisPE4LJdER3FmdeM39b.jpg"
+    },
+    {
+      "titre": "Fury",
+      "note": "9",
+      "duree": "134",
+      "sortie": "2014",
+      "age": "+14 ans",
+      "categorie": "Aventure",
+      "content": "Avril 1945. Les Alliés mènent leur ultime offensive en Europe. À bord d’un tank Sherman, le sergent Wardaddy et ses 4 hommes s’engagent dans une mission à très haut risque bien au-delà des lignes ennemies. Face à un adversaire dont le nombre et la puissance de feu les dépassent, Wardaddy et son équipage vont devoir tout tenter pour frapper l’Allemagne nazie en plein cœur…",
+      "image": "https://image.tmdb.org/t/p/original/q7kgbEjx2BHUDErfU7lH8UqS51R.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/gPcLCI8LmsOPCLPwwEoXj8lQ07R.jpg"
+    },
+    {
+      "titre": "Joker",
+      "note": "8",
+      "duree": "122",
+      "sortie": "2019",
+      "age": "+16 ans",
+      "categorie": "Thriller",
+      "content": "Dans les années 1980, à Gotham City, Arthur Fleck, un humoriste de stand-up raté, bascule dans la folie et devient le Joker.",
+      "image": "https://image.tmdb.org/t/p/original/eULKKOWsO6z3m8RBhIuGNp9xsWT.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg"
+    },
+    {
+      "titre": "Ad Astra",
+      "note": "7",
+      "duree": "120",
+      "sortie": "2019",
+      "age": "+12 ans",
+      "categorie": "Science-fiction",
+      "content": "L’astronaute Roy McBride s’aventure jusqu’aux confins du système solaire à la recherche de son père disparu et pour résoudre un mystère qui menace la survie de notre planète. Lors de son voyage, il sera confronté à des révélations mettant en cause la nature même de l’existence humaine, et notre place dans l’univers.",
+      "image": "https://image.tmdb.org/t/p/original/m11Mej9vbQqcXWgYrgPboCJ9NUh.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/t4z8OlOEzH7J1JRFUN3rcm6XHNL.jpg"
+    },
+    {
+      "titre": "Star Wars : L'Ascension de Skywalker",
+      "note": "7",
+      "duree": "141",
+      "sortie": "2019",
+      "age": "+12 ans",
+      "categorie": "Aventure",
+      "content": "Lucasfilm et le réalisateur J.J. Abrams unissent de nouveau leurs forces pour embarquer le spectateur dans un voyage épique vers une galaxie lointaine, très lointaine. Dans ce dernier acte captivant de la prodigieuse saga Skywalker, de nouvelles légendes voient le jour. ",
+      "image": "https://image.tmdb.org/t/p/original/w1fqnG3W2xqCPTvjdPJTcfPMYH1.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/jOzrELAzFxtMx2I4uDGHOotdfsS.jpg"
+    }
+  ],
+    [{
+      "titre": "Léon",
+      "note": "9",
+      "duree": "83",
+      "sortie": "1994",
+      "age": "+12 ans",
+      "categorie": "Thriller",
+      "content": "Un tueur à gages répondant au nom de Léon prend sous son aile Mathilda, une petite fille de douze ans, seule rescapée du massacre de sa famille. Bientôt, Léon va faire de Mathilda une nettoyeuse, comme lui. Et Mathilda pourra venger son petit frère...",
+      "image": "https://image.tmdb.org/t/p/original/sIPssu7jWMzV8rJxz28R0TwZCkz.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/oPcxdm2rNv5xg2sZlzjwKtAiPXl.jpg"
+    },
+ 
+  
+    {
+      "titre": "Captain Marvel ",
+      "note": "8",
+      "duree": "123",
+      "sortie": "2019",
+      "age": "+12 ans",
+      "categorie": "Science-fiction",
+      "content": "Captain Marvel raconte l’histoire de Carol Danvers qui va devenir l’une des super-héroïnes les plus puissantes de l’univers lorsque la Terre se révèle l’enjeu d’une guerre galactique entre deux races extraterrestres.",
+      "image": "https://image.tmdb.org/t/p/original/3v6dxV5l6Zs2OcrAnIcuE9POeGY.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/nBS1vONGYrsL2C68C2oDQ3eKJR1.jpg"
+    },
+    {
+      "titre": "Avatar",
+      "note": "8",
+      "duree": "160",
+      "sortie": "2009",
+      "age": "+10 ans",
+      "categorie": "Science-fiction",
+      "content": "Malgré sa paralysie, Jake Sully, un ancien marine immobilisé dans un fauteuil roulant, est resté un combattant au plus profond de son être. Il est recruté pour se rendre à des années-lumière de la Terre, sur Pandora, où de puissants groupes industriels exploitent un minerai rarissime destiné à résoudre la crise énergétique sur Terre. Parce que l'atmosphère de Pandora est toxique pour les humains, ceux-ci ont créé le Programme Avatar, qui permet à des pilotes humains de lier leur esprit à un avatar, un corps biologique commandé à distance, capable de survivre dans cette atmosphère létale",
+      "image": "https://image.tmdb.org/t/p/original/3npygfmEhqnmNTmDWhHLz1LPcbA.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/eS8rJ1KzRNBewx9MduiSHM4kr7S.jpg"
+    },
+    {
+      "titre": "Fight Club",
+      "note": "9",
+      "duree": "194",
+      "sortie": "139",
+      "age": "+16 ans",
+      "categorie": "Thriller",
+      "content": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux-repas pour une personne comme beaucoup d’autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C’est pourquoi il va devenir membre du Fight club, un lieu clandestin où il va pouvoir retrouver sa virilité, l’échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d’anarchiste entre gourou et philosophe qui prêche l’amour de son prochain.",
+      "image": "https://image.tmdb.org/t/p/original/6NdNO1dq9w54ujk2G4sK4ogsf0H.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg"
+    },
+    {
+      "titre": "Le Mans 66",
+      "note": "8",
+      "duree": "152",
+      "sortie": "2019",
+      "age": "+12 ans",
+      "categorie": "Aventure",
+      "content": "Relate l’histoire vraie qui a conduit l’ingénieur automobile visionnaire américain Caroll Shelby à faire équipe avec le pilote de course britannique surdoué Ken Miles. Bravant l’ordre établi, défiant les lois de la physique et luttant contre leurs propres démons, les deux hommes n’avaient qu’un seul but : construire pour le compte de Ford Motor Company un bolide révolutionnaire capable de renverser la suprématie de l’écurie d’Enzo Ferrari sur le mythique circuit des 24 heures du Mans en 1966…",
+      "image": "https://image.tmdb.org/t/p/original/2KQI0x6AEdbiN6z4LWjKZHukMzZ.jpg",
+      "image2": "https://image.tmdb.org/t/p/original/mn9k8zapebAbCqsiKf24juhXjjx.jpg"
+    }]
+  
+  
+]
